@@ -68,32 +68,32 @@ const app = {
             image: './assets/img/song5.jpg'
         },
         {
-            name: '6',
-            singer: 'The Weeknd',
+            name: 'The Nights',
+            singer: 'Avicii',
             path: './assets/music/song6.mp3',
             image: './assets/img/song6.jpg'
         },
         {
-            name: '7',
-            singer: 'The Weeknd',
+            name: 'Payphone',
+            singer: 'Maroon 5, Wiz Khalifa',
             path: './assets/music/song7.mp3',
             image: './assets/img/song7.jpg'
         },
         {
-            name: '8',
-            singer: 'The Weeknd',
+            name: 'Closer',
+            singer: 'The Chainsmokers, Halsey',
             path: './assets/music/song8.mp3',
             image: './assets/img/song8.jpg'
         },
         {
-            name: '9',
-            singer: 'The Weeknd',
+            name: 'Something Just Like This',
+            singer: 'The Chainsmokers, Coldplay',
             path: './assets/music/song9.mp3',
             image: './assets/img/song9.jpg'
         },
         {
-            name: '10',
-            singer: 'The Weeknd',
+            name: 'Don\'t Let Me Down',
+            singer: 'The Chainsmokers, Daya',
             path: './assets/music/song10.mp3',
             image: './assets/img/song10.jpg'
         },
